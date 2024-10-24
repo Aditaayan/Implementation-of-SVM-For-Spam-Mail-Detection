@@ -57,12 +57,16 @@ accuracy
 ```
 
 ## Output:
+HEAD FUNCTION:
 ![379535931-0d611ebe-0cdd-4483-8b55-91580fc911d0](https://github.com/user-attachments/assets/7e86e7b7-c47e-48b0-85de-b6333a0a63ec)
 
+INFO()
 ![379535952-50ac310b-7aec-4fdc-baa7-60c532f6c428](https://github.com/user-attachments/assets/4c66593c-1e4b-49dd-a533-8d1bd6ba1261)
 
+Y_PREDICTION:
 ![379535979-1bc99e94-69bd-4ed0-9295-3fa7c1e9f702](https://github.com/user-attachments/assets/05add588-1081-4954-80d9-ffc473c46703)
 
+ACCURACY:
 ![379536003-f79527e2-099f-4bf9-869c-f11fbbf7aa8b](https://github.com/user-attachments/assets/dc25acdf-35e8-47ec-91fc-4dde2ac1b62d)
 
 
